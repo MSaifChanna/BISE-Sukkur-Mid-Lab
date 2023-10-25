@@ -1,0 +1,369 @@
+.mobile-view-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 402px;
+  height: 97px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 19px;
+  left: 52px;
+  width: 78px;
+  height: 69px;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: 20px;
+  background-color: var(--color-silver);
+  width: 112px;
+  height: 43px;
+}
+.ellines-icon {
+  position: absolute;
+  top: 11px;
+  right: 38.2px;
+  width: 35.1px;
+  height: 21.1px;
+  overflow: hidden;
+}
+.group-wrapper,
+.mobile-view-inner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 112px;
+  height: 43px;
+}
+.mobile-view-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 24px;
+  right: 22px;
+}
+.controlling-authority-of {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 148.5px);
+}
+.chief-minister-sindh {
+  position: absolute;
+  height: 65.73%;
+  top: 34.27%;
+  left: calc(50% - 134.5px);
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  width: 283px;
+}
+.controlling-authority-of-bise-parent {
+  position: absolute;
+  height: 4.94%;
+  top: 14.07%;
+  bottom: 80.99%;
+  left: calc(50% - 175px);
+  width: 297px;
+  font-size: var(--font-size-base);
+}
+.image-2-icon1 {
+  position: absolute;
+  top: calc(50% - 896.5px);
+  left: 26px;
+  width: 339px;
+  height: 335px;
+  object-fit: cover;
+}
+.group-item,
+.mobile-view-item {
+  position: absolute;
+  top: 897px;
+  left: 0;
+  background-color: var(--color-silver);
+  width: 402px;
+  height: 1117px;
+}
+.group-item {
+  top: 275px;
+  left: 14px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 122px;
+  height: 25px;
+}
+.details,
+.mr-rafique-ahmed {
+  position: absolute;
+  display: inline-block;
+}
+.details {
+  top: 279px;
+  left: 44px;
+  width: 71px;
+  height: 17px;
+}
+.mr-rafique-ahmed {
+  top: 209px;
+  left: 25px;
+  font-size: var(--font-size-base);
+  width: 117px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 179px;
+  height: 200px;
+  object-fit: cover;
+}
+.group-inner,
+.rectangle-group {
+  position: absolute;
+  top: 1684px;
+  left: 116px;
+  width: 179px;
+  height: 300px;
+}
+.group-inner {
+  top: 279px;
+  left: 19px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 122px;
+  height: 25px;
+}
+.details1,
+.mr-rafique-ahmed1 {
+  position: absolute;
+  display: inline-block;
+}
+.details1 {
+  top: 283px;
+  left: 49px;
+  width: 71px;
+  height: 17px;
+}
+.mr-rafique-ahmed1 {
+  top: 213px;
+  left: 30px;
+  font-size: var(--font-size-base);
+  width: 117px;
+}
+.group-div,
+.rectangle-container {
+  position: absolute;
+  top: 993px;
+  left: 116px;
+  width: 179px;
+  height: 304px;
+}
+.group-div {
+  top: 1348px;
+}
+.officers {
+  position: absolute;
+  top: 936px;
+  left: 37px;
+  font-size: var(--font-size-5xl);
+}
+.mobile-view-child1 {
+  position: absolute;
+  top: 2014px;
+  left: 1px;
+  background-color: var(--color-black);
+  width: 401px;
+  height: 277px;
+}
+.results-and-announcments {
+  position: absolute;
+  top: 2048px;
+  left: 86px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 211px;
+}
+.higher-secoundry-school {
+  position: absolute;
+  top: 4px;
+  left: 45.3px;
+  display: inline-block;
+  width: 323px;
+}
+.mdiannouncement-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22.7px;
+  height: 24px;
+  overflow: hidden;
+}
+.higher-secoundry-school-part-i-parent {
+  position: absolute;
+  top: 2118px;
+  left: 30px;
+  width: 368.4px;
+  height: 38px;
+  color: var(--color-white);
+}
+.higher-secoundry-school-part-i-parent1 {
+  position: absolute;
+  top: 35px;
+  left: 1.9px;
+  width: 368.4px;
+  height: 38px;
+}
+.higher-secoundry-school-part-i-container {
+  position: absolute;
+  top: 36px;
+  left: 1.9px;
+  width: 370.3px;
+  height: 73px;
+}
+.higher-secoundry-school-part-i-group {
+  position: absolute;
+  top: 2154px;
+  left: 30px;
+  width: 372.1px;
+  height: 109px;
+  color: var(--color-white);
+}
+.frame-child {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-white);
+  position: relative;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 311px;
+  height: 30px;
+}
+.frame-div,
+.rectangle-frame,
+.rectangle-wrapper {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.frame-div,
+.rectangle-frame {
+  top: 220px;
+  left: 1px;
+}
+.frame-div {
+  top: 170px;
+  left: 0;
+}
+.contact-us {
+  position: absolute;
+  top: 0;
+  left: 18px;
+}
+.rectangle-input {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-white);
+  position: relative;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 312px;
+  height: 126px;
+}
+.rectangle-wrapper1 {
+  position: absolute;
+  top: 284px;
+  left: 4px;
+  width: 328px;
+  height: 147px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-green);
+  position: relative;
+  border-radius: var(--br-3xs);
+  width: 306px;
+  height: 44px;
+}
+.rectangle-wrapper2 {
+  position: absolute;
+  top: 451px;
+  left: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.frame-parent {
+  position: absolute;
+  top: 2303px;
+  left: 19px;
+  width: 332px;
+  height: 515px;
+  font-size: 20px;
+}
+.mobile-view-inner1 {
+  position: absolute;
+  top: 2355px;
+  left: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.submit {
+  position: absolute;
+  top: 2771px;
+  left: 135px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.mobile-view-child2 {
+  position: absolute;
+  top: 2838px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 402px;
+  height: 55px;
+}
+.all-rights-reserverd {
+  position: absolute;
+  top: 2856px;
+  left: 59px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.group-icon {
+  position: absolute;
+  top: 96px;
+  left: calc(50% - 201px);
+  width: 402px;
+  height: 255px;
+}
+.mobile-view {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2893px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
